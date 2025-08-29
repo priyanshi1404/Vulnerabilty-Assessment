@@ -1,34 +1,50 @@
-# Cybersecurity Vulnerability Assessment Lab
+# 🛡️ Cybersecurity Vulnerability Assessment Lab
 
-This repository contains a lab project focused on vulnerability assessment using Windows virtual machines and Nessus vulnerability scanner.
+This repository contains an **educational lab project** focused on identifying, analyzing, and remediating system vulnerabilities using **Windows virtual machines** and the **Nessus vulnerability scanner**.  
 
-## Project Overview
+---
 
-The purpose of this lab is to identify, analyze, and remediate vulnerabilities in a controlled environment. It demonstrates practical skills in setting up virtual machines, conducting scans, and implementing effective remediation strategies.
+## 🔍 Project Overview
 
-## Features / Highlights
+This lab provides **hands-on experience** in vulnerability management. Learners will:
 
-- Set up and configured a Windows virtual machine (VM) on VirtualBox.
-- Installed and configured Nessus vulnerability scanner on the Windows VM.
-- Conducted comprehensive vulnerability scans using Nessus, including credentialed scans.
-- Identified and analyzed vulnerabilities in the system.
-- Installed vulnerable software for testing purposes.
-- Developed and implemented effective remediation strategies to address identified vulnerabilities.
+- Set up and configure Windows VMs. 🖥️
+- Conduct **credentialed and non-credentialed scans** using Nessus. 🔎
+- Analyze system vulnerabilities. ⚠️
+- Implement effective remediation strategies. 🛠️
+- Test vulnerabilities with deliberately installed vulnerable software. 💻
 
-## Tools Used
+---
 
-- **VirtualBox** – for creating and managing virtual machines.
-- **Windows OS** – installed as a virtual machine.
-- **Nessus** – for vulnerability scanning.
+## ✨ Features / Highlights
 
-## Learning Outcomes
+- ✅ Windows VM setup and configuration on **VirtualBox**.
+- ✅ Nessus installation and configuration.
+- ✅ Comprehensive vulnerability scanning.
+- ✅ Identification and analysis of security risks.
+- ✅ Practical remediation implementation.
 
-- Hands-on experience with VM setup and configuration.
-- Conducting vulnerability assessments using industry-standard tools.
-- Understanding of vulnerability identification, analysis, and remediation.
-- Practical exposure to credentialed and non-credentialed vulnerability scans.
+---
 
-## License
+## 🛠️ Tools Used
 
-This project is for educational purposes. 
+- **VirtualBox** – for creating and managing virtual machines. 🖥️  
+- **Windows OS** – installed as a virtual machine. 🪟  
+- **Nessus** – for vulnerability scanning and assessment. 🔍  
 
+---
+
+## 🎯 Learning Outcomes
+
+By completing this lab, you will gain:
+
+- Hands-on experience with VM setup and configuration. 💻  
+- Skills in vulnerability assessment using industry-standard tools. 🛡️  
+- Understanding of vulnerability analysis and remediation techniques. ⚙️  
+- Practical knowledge of **credentialed and non-credentialed scans**. 🔎  
+
+---
+
+## 📜 License
+
+This project is intended for **educational purposes only**. 🎓
